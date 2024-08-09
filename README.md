@@ -13,7 +13,6 @@
 <a href="https://jegaljihyun1123.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tstory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 <a href="https://www.instagram.com/easy_04_l" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=[4. 로고명(아이콘명)]&logoColor=white"/></a>
 <a href="https://blog.naver.com/janet9182" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=instargram&logoColor=white"/></a>
-<a href="https://blog.naver.com/janet9182" target="_blank"><img src="https://img.shields.io/badge/[2. 등록하려는 이름]-[3. #을 뺀 나머지 색깔코드]?style=flat-square&logo=blogger&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/u/0/?ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/Gamil-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 ## 😎 Tech Stack
