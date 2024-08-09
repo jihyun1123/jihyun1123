@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=header$height=130&text=Hello+Jihyun&animation=blink&fontSize=80&fontAlignY=70&fontColor=black)
 # Hi, Welcome to the Jihyun's github! 😎
+
 ## 🗨️ Introduction
 <ul>
   <li>이름 : 이지현</li>
@@ -7,22 +8,18 @@
   <li>취미 : 게임🎮, 만화📖, 그림🎨, 여행🚗 등등</li>
   <li>이메일 : janet9182@naver.com</li>
 </ul>
-<br>
 
 ## 🤩 SNS 🤩
 <a href="https://jegaljihyun1123.tistory.com/manage" target="blank"><img src="https://img.shields.io/badge/Jihyun's TISTORY-ebb5cb?style=for-the-badge&logo=instagram&logoColor=black"></a>
 <a href="https://www.instagram.com/easy_04_l/" target="blank"><img src="https://img.shields.io/badge/Jihyun's instagram-ebb5cb?style=for-the-badge&logo=instagram&logoColor=black"/></a>
-<br>
 
 ## 😎 Tech Stack
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<br>
 
 ## 🎖️ Activity
 <ul>
   <li>멋쟁이 사자처럼 12기 (2024.01 ~ ) 🦁</li>
 </ul>
-<br>
 
 ## 🖥️ Project
 <ul>
