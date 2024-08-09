@@ -12,6 +12,7 @@
 ## 🤩 SNS 🤩
 <a href="https://jegaljihyun1123.tistory.com/manage" target="blank"><img src="https://img.shields.io/badge/Jihyun's TISTORY-ebb5cb?style=for-the-badge&logo=instagram&logoColor=black"></a>
 <a href="https://www.instagram.com/easy_04_l/" target="blank"><img src="https://img.shields.io/badge/Jihyun's instagram-ebb5cb?style=for-the-badge&logo=instagram&logoColor=black"/></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jegaljihyun@gmail.com)
 
 ## 😎 Tech Stack
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
