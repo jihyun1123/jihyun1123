@@ -13,22 +13,31 @@
 <a href="https://www.instagram.com/easy_04_l/" target="blank"><img src="https://img.shields.io/badge/Jihyun's instagram-ebb5cb?style=for-the-badge&logo=instagram&logoColor=black"/></a>
 <br>
 
-## 🎖️ Career
+## 🎖️ Activity
 <ul>
-  <li>한밭대학교 재학중🎓</li>
-  <li>멋쟁이 사자처럼 12기 🦁</li>
+  <li>멋쟁이 사자처럼 12기 (2024.01 ~ ) 🦁</li>
 </ul>
 
 ## 🖥️ Project
 <ul>
-  <li>없덩...</li>
+  <li> 심리테스트 기반 컨텐츠 추천 웹사이트 - FIND US FIND ME (2024.07 ~ 08) </li></li>
+</ul>
+
+## 💎Contest
+<ul>
+  <li>멋쟁이사자처럼 12기 </li>
 </ul>
 
 ## 📰 Statistics
 <div>
-  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=ydmins&show_icons=true&theme=holi" width = "49%" height="130%" />
-  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=ydmins" width="42%" height="100%"/>
+  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=jihyun1123&show_icons=true&theme=holi" width = "49%" height="130%" />
+  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=janet9182" width="42%" height="100%"/>
 </div>
 <div>
-  <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydmins&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
+  <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihyun1123&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
 </div>
+
+## 🪪 Certificate
+<ul>
+  <li></li>
+</ul>
