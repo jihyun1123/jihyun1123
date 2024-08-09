@@ -14,6 +14,7 @@
 
 ## 😎 Tech Stack
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
 ## 🎖️ Activity
 <ul>
   <li>멋쟁이 사자처럼 12기 (2024.01 ~ ) 🦁</li>
