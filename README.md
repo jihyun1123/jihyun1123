@@ -8,7 +8,8 @@
   <li>이메일 : janet9182@naver.com</li>
 </ul>
 <br>
-<a href="[https://blog.naver.com/janet9182](https://jegaljihyun1123.tistory.com/manage)" target="blank"><img src="https://img.shields.io/badge/Jihyun's TISTORY-b5ebc2?style=for-the-badge&logo=blogger&logoColor=Red"/></a>
+<a href="https://jegaljihyun1123.tistory.com/manage" target="blank"><img src="https://camo.githubusercontent.com/af989f6213cf9ba312e4b926b807b3299365246c022658f6fa2d9d9d7139931b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546973746f72792d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d546973746f7279266c6f676f436f6c6f723d7768697465266c696e6b3d" data-canonical-src="https://img.shields.io/badge/Tistory-000000?style=flat-square&amp;logo=Tistory&amp;logoColor=white&amp;link=" style="max-width: 100%;"></a>
+
 
 <a href="https://www.instagram.com/easy_04_l/" target="blank"><img src="https://img.shields.io/badge/Jihyun's instagram-ebb5cb?style=for-the-badge&logo=instagram&logoColor=black"/></a>
 <br>
@@ -28,6 +29,11 @@
   <li>멋쟁이사자처럼 12기 </li>
 </ul>
 
+## 🪪 Certificate
+<ul>
+  <li>.</li>
+</ul>
+
 ## 📰 Statistics
 <div>
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=jihyun1123&show_icons=true&theme=holi" width = "49%" height="130%" />
@@ -36,8 +42,3 @@
 <div>
   <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihyun1123&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
 </div>
-
-## 🪪 Certificate
-<ul>
-  <li>.</li>
-</ul>
