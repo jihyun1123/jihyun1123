@@ -8,13 +8,16 @@
   <li>이메일 : janet9182@naver.com</li>
 </ul>
 <br>
+
 ## 🤩 SNS 🤩
 <a href="https://jegaljihyun1123.tistory.com/manage" target="blank"><img src="https://img.shields.io/badge/Jihyun's TISTORY-ebb5cb?style=for-the-badge&logo=instagram&logoColor=black"></a>
 <a href="https://www.instagram.com/easy_04_l/" target="blank"><img src="https://img.shields.io/badge/Jihyun's instagram-ebb5cb?style=for-the-badge&logo=instagram&logoColor=black"/></a>
 <br>
+
 ## 😎 Tech Stack
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <br>
+
 ## 🎖️ Activity
 <ul>
   <li>멋쟁이 사자처럼 12기 (2024.01 ~ ) 🦁</li>
