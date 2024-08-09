@@ -10,21 +10,15 @@
 </ul>
 
 ## 🤩 SNS 🤩
-<img src="https://jegaljihyun1123.tistory.com/Tstory-#000000?style=for-the-badge&logo=tistory&logoColor=white">
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
-
-<a href="https://jegaljihyun1123.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TSTORY#000000?style=flat-square&logo=tistory&logoColor=white"/></a>  
-<a href="https://www.instagram.com/easy_04_l/" target="_blank"><img src="https://img.shields.io/badge/Instargram-#E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>  
-<a href="https://blog.naver.com/janet9182" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-#03C75A?style=flat-square&logo=blogger&logoColor=white"/></a>  
-<a href="https://mail.google.com/mail/u/0/?ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-#EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>  
+<a href="https://jegaljihyun1123.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tstory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+<a href="https://www.instagram.com/easy_04_l" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=[4. 로고명(아이콘명)]&logoColor=white"/></a>
+<a href="https://blog.naver.com/janet9182" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=instargram&logoColor=white"/></a>
+<a href="https://blog.naver.com/janet9182" target="_blank"><img src="https://img.shields.io/badge/[2. 등록하려는 이름]-[3. #을 뺀 나머지 색깔코드]?style=flat-square&logo=blogger&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/u/0/?ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/Gamil-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 ## 😎 Tech Stack
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-
 
 ## 🎖️ Activity
 <ul>
