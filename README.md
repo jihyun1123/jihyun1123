@@ -10,6 +10,12 @@
 </ul>
 
 ## 🤩 SNS 🤩
+<img src="https://jegaljihyun1123.tistory.com/Tstory-#000000?style=for-the-badge&logo=tistory&logoColor=white">
+<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
+<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
+<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
+<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
+
 <a href="https://jegaljihyun1123.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TSTORY#000000?style=flat-square&logo=tistory&logoColor=white"/></a>  
 <a href="https://www.instagram.com/easy_04_l/" target="_blank"><img src="https://img.shields.io/badge/Instargram-#E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>  
 <a href="https://blog.naver.com/janet9182" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-#03C75A?style=flat-square&logo=blogger&logoColor=white"/></a>  
