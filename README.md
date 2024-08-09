@@ -10,9 +10,10 @@
 </ul>
 
 ## 🤩 SNS 🤩
-<a href="https://jegaljihyun1123.tistory.com/manage" target="blank"><img src="https://img.shields.io/badge/Jihyun's TISTORY-ebb5cb?style=for-the-badge&logo=instagram&logoColor=black"></a>
-<a href="https://www.instagram.com/easy_04_l/" target="blank"><img src="https://img.shields.io/badge/Jihyun's instagram-ebb5cb?style=for-the-badge&logo=instagram&logoColor=black"/></a>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jegaljihyun@gmail.com)
+<a href="https://jegaljihyun1123.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TSTORY#000000?style=flat-square&logo=tistory&logoColor=white"/></a>  
+<a href="https://www.instagram.com/easy_04_l/" target="_blank"><img src="https://img.shields.io/badge/Instargram-#E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>  
+<a href="https://blog.naver.com/janet9182" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-#03C75A?style=flat-square&logo=blogger&logoColor=white"/></a>  
+<a href="https://mail.google.com/mail/u/0/?ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-#EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>  
 
 ## 😎 Tech Stack
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
