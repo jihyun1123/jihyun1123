@@ -27,6 +27,9 @@
 ## 🖥️ Project
 <ul>
   <li> 심리테스트 기반 컨텐츠 추천 웹사이트 - <strong>FIND US FIND ME (2024.07 ~ 08)</strong></li>
+  <li> 마이크로프로세서 전공 프로젝트 - </li>
+  <li> 오픈소스 SW 프로그래밍 전공 프로젝트 -  </li>
+  <li> 개인프로젝트 - 고양이 밈을 이용한 MBTI 테스트 </li>
 </ul>
 
 ## 💎Contest
