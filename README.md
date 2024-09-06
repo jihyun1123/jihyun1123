@@ -37,18 +37,18 @@
 
 ## 🦭 major record
 <ul> 평균 : 3.84 / 전공평균 : 3.94
-  <ul>
+  <li>
     1학년 1학기 : 3.5점
     Python 프로그래밍
-  </ul>
-  <ul>
+  </li>
+  <li>
     1학년 2학기 : 4.2점
     C/C++ 프로그래밍
-  </ul>
-  <ul>
+  </li>
+  <li>
     2학년 1학기 : 3.83점
     Java 프로그래밍
-  </ul>
+  </li>
 </ul>
 
 ## 🪪 Certificate
