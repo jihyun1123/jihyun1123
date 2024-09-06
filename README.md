@@ -26,13 +26,26 @@
 
 ## 🖥️ Project
 <ul>
-  <li> 심리테스트 기반 컨텐츠 추천 웹사이트 - FIND US FIND ME (2024.07 ~ 08) </li></li>
+  <li> 심리테스트 기반 컨텐츠 추천 웹사이트 - <strong>FIND US FIND ME (2024.07 ~ 08)</strong></li>
 </ul>
 
 ## 💎Contest
 <ul>
   <li>2024 SW융합클러스터2.0 세종DX 해커톤 </li>
   <li>2024 멋쟁이사자처럼 12기 중앙 해커톤 </li>
+</ul>
+
+## 🦭 major record
+<ul>
+  <ol> 1학년 1학기 : 3.5점
+      <li>Python 프로그래밍</li>
+  </ol>
+    <ol> 1학년 2학기 : 4.2점
+      <li>C/C++ 프로그래밍</li>
+  </ol>
+    <ol> 2학년 1학기 : 3.83점
+      <li>Java 프로그래밍</li>
+  </ol>
 </ul>
 
 ## 🪪 Certificate
