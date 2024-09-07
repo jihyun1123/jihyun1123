@@ -4,9 +4,8 @@
 ## 🗨️ Introduction
 <ul>
   <li>이름 : 이지현</li>
-  <li>닉네임 : Jihyun1123 or Janet9182</li>
-  <li>취미 : 게임🎮, 만화📖, 그림🎨, 여행🚗 등등</li>
-  <li>이메일 : janet9182@naver.com</li>
+  <li>닉네임 : Jihyun1123 or Janet9182 or Jegaljihyun1123</li>
+  <li>취미 : 게임🎮, 독서📖, 그림🎨, 여행🚗, 코바늘🧶, 양모펠트🧵 등등</li>
 </ul>
 
 ## 🤩 SNS 🤩
@@ -27,9 +26,9 @@
 ## 🖥️ Project
 <ul>
   <li> 심리테스트 기반 컨텐츠 추천 웹사이트 - <strong>FIND US FIND ME (2024.07 ~ 08)</strong></li>
-  <li> 마이크로프로세서 전공 프로젝트 - </li>
-  <li> 오픈소스 SW 프로그래밍 전공 프로젝트 -  </li>
-  <li> 개인프로젝트 - 고양이 밈을 이용한 MBTI 테스트 </li>
+  <li> 마이크로프로세서 전공 프로젝트(by 라즈베리 파이) - </li>
+  <li> 오픈소스 SW 프로그래밍 전공 프로젝트(by 파이썬) -  </li>
+  <li> 개인프로젝트 - 고양이 밈을 이용한 MBTI 테스트 (2024년 하반기 개발 예정)</li>
 </ul>
 
 ## 💎Contest
@@ -50,7 +49,7 @@
   </li>
   <li>
     2학년 1학기 : 3.83점
-    Java 프로그래밍
+    Java 프로그래밍, 자료구조, 운영체제, 데이터 사이언스
   </li>
 
 ## 🪪 Certificate
