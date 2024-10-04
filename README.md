@@ -19,16 +19,12 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Python-FF007F?style=for-the-badge&logo=Python&logoColor=White">
 
 ## 🎖️ Activity
-<ul>
-  <li>멋쟁이 사자처럼 12기 (2024.01 ~ ) 🦁</li>
-</ul>
+|**활동**|**기간**|**활동 내용**|**비고**|
+|--------------------|---------|----------------------------------|--------|
+|멋쟁이 사자처럼 12기|2024.01 ~|IT 연합 동아리 멋쟁이 사자처럼 12기|동아리원|
 
 ## 🖥️ Project
-|제목|내용|설명|
-|------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+
 <ul>
   
   <li> 심리테스트 기반 컨텐츠 추천 웹사이트 - <strong>FIND US FIND ME (2024.07 ~ 08)</strong></li>
