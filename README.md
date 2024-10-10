@@ -3,7 +3,7 @@
 
 ## 🗨️ Introduction
 <ul>
-  <li>이름 : 이지현</li>
+  <li>이름 : **이지현**</li>
   <li>닉네임 : Jihyun1123 or Janet9182 or Jegaljihyun1123</li>
   <li>취미 : 게임🎮, 독서📖, 그림🎨, 여행🚗, 코바늘🧶, 양모펠트🧵 등등</li>
 </ul>
