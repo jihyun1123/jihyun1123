@@ -37,7 +37,7 @@
 |2024 SW융합클러스터2.0 세종DX 해커톤|2024.07 ~ 2024. 08|IT 연합 동아리 멋쟁이 사자처럼 12기 세종DX 해커톤|인재상|
 |2024 멋쟁이사자처럼 12기 중앙 해커톤|2024.07 ~ 2024. 08|IT 연합 동아리 멋쟁이 사자처럼 12기 중앙 해커톤||
 |2024 전국 대학 프로그래밍 경진대회|2024.11.16|구름에서 주최하는 대학간 공동 알고리즘 코딩 경진대회|--|
-|2024 교내 컴퓨터공학[header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=header$height=130&text=Hello+Jihyun&animation=blink&fontSize=80&fontAlignY=70&fontColor=black)
+|2024 국립한밭대학교 포트폴리오 경진대회](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=header$height=130&text=Hello+Jihyun&animation=blink&fontSize=80&fontAlignY=70&fontColor=black)
 # Hi, Welcome to the Jihyun's github! 😎
 
 ## 🗨️ Introduction
