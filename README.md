@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=header$height=130&animation=blink&fontSize=80&fontAlignY=70&fontColor=black)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=jihyun's github&fontSize=90" />
 ## 🗨️ Introduction
 <ul>
   <li>이름 : 이지현</li>
