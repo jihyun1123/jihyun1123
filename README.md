@@ -154,7 +154,7 @@
   </tr>
 </table>
 
-<h2 align="center">🪪 Certificate</h2>
+<h2 align="center">🎫 Certificate</h2>
 <table align="center">
     <tr>
       <th>이름</th>
