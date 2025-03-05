@@ -122,6 +122,18 @@
     <td>큐싱 문제 해결 어플 제작 + 3d 프린팅 자전거</td>
     <td>프론트엔드 & QA</td>
   </tr>
+  <tr>
+    <td>MeowBTI</td>
+    <td>2025.03 ~ 2025.04</td>
+    <td>고양이 캐릭터😺+ cat mi을 이용한 MBTI 테스트 사이트</td>
+    <td>1인 개발</td>
+  </tr>
+  <tr>
+    <td>🎆🎇밭대마쯔리🎇🎎</td>
+    <td>2025.03 ~ 2025.06</td>
+    <td>한밭대학교 축제부스 QR인식 스탬프 모으기 이벤트 어플</td>
+    <td>1인 개발</td>
+  </tr>
 </table>
 
 <h2 align="center">🎫 Certificate</h2>
