@@ -124,15 +124,15 @@
   </tr>
   <tr>
     <td>MeowBTI</td>
-    <td>2025.03 ~ 2025.04</td>
+    <td>2025.04 ~ 2025.05</td>
     <td>고양이 캐릭터😺+ cat mi을 이용한 MBTI 테스트 사이트</td>
     <td>1인 개발</td>
   </tr>
   <tr>
-    <td>학교갑시다</td>
-    <td>2025.03 ~ 2025.06</td>
+    <td>👩‍🌾🍎모여봐요 밭으로🍏🧑‍🌾</td>
+    <td>2025.04 ~ 2025.06</td>
     <td>한밭대학교 출석체크 보완 어플</td>
-    <td>1인 개발</td>
+    <td>모바일 수업 개발 과제</td>
   </tr>
 </table>
 
@@ -149,18 +149,18 @@
       <td>258점</td>
     </tr>
     <tr>
-      <td>SQLD</td>
-      <td>2025.08</td>
-      <td>예정</td>
-    </tr>
-    <tr>
       <td>TOEIC</td>
       <td>2026.02</td>
-      <td>nnn점</td>
+      <td>예정</td>
     </tr> 
     <tr>
       <td>정보처리기사</td>
-      <td>2026</td>
+      <td>2026.07</td>
+      <td>예정</td>
+    </tr>
+    <tr>
+      <td>SQLD</td>
+      <td>2027.02</td>
       <td>예정</td>
     </tr>
 </table>
