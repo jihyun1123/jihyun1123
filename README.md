@@ -15,7 +15,6 @@
   <a href="https://blog.naver.com/janet9182" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
   <a href="https://mail.google.com/mail/u/0/?ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
-![Programmers Badge]
 (https://raw.githubusercontent.com/jihyun1123/Programmers_Badge_Generator/main/result/result.svg)
 <div align="center">
   <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=jihyun1123&show_icons=true&theme=holi" width="49%" height="130%" />
