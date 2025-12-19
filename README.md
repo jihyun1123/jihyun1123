@@ -117,10 +117,10 @@
 <h2 align="center">🖥️ Project</h2>
 <table align="center">
   <tr>
-    <th>**프로젝트명**</th>
-    <th>**기간**</th>
-    <th>**활동 내용**</th>
-    <th>**비고**</th>
+    <th>프로젝트명</th>
+    <th>기간</th>
+    <th>활동 내용</th>
+    <th>비고</th>
   </tr>
   <tr>
     <td>FIND US FIND ME</td>
