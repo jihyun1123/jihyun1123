@@ -69,10 +69,10 @@
       <td>프론트엔드</td>
     </tr>
     <tr>
-      <td>코드잇 React로 배우는 실전 프론트엔드 개발 로드맵</td>
+      <td>코드잇 Lv 36</td>
       <td>2025.03 ~ 2025.12</td>
-      <td>React 프론트엔드 온라인 강의</td>
-      <td>수료증 22개</td>
+      <td>코드잇 React로 배우는 실전 프론트엔드 개발 로드맵 + UI 디자인 로드맵</td>
+      <td>수료증 17개</td>
     </tr>
       <tr>
       <td>kt cloud X goorm DeepDive 프론트엔드 부트캠프 9회차</td>
