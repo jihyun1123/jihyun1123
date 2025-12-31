@@ -67,7 +67,7 @@
       <td>kt cloud X goorm DeepDive 프론트엔드 부트캠프 9회차</td>
       <td>2025.12.29 ~ 2026.07.16</td>
       <td>kt cloud X goorm에서 주최하는 7개월 프론트엔드 부트캠프</td>
-      <td>프론트엔>프론>t
+      <td>프론트엔드</td>
     </tr>
     </tr>
   
