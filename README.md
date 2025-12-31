@@ -35,13 +35,13 @@
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 </p>
 <h2 align="center">🥸 I've used </h2>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-FF007F?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 </p>
 <h2 align="center">🛠️ Tools</h2>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"><br>
   <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
