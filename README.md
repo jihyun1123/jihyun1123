@@ -157,6 +157,12 @@
     <td>AI기술 기반 기업 질문 응답 서비스 웹사이트</td>
     <td>프론트엔드 & 디자인 </td>
   </tr>
+    <tr>
+    <td>MeowBTI>>tdd
+    <td>20266.01.06 ~ 2026.01.20</td>
+    <td>cat meme을 이용한 MBTI 사이트</td>
+    <td>1인 토이 프로젝트</td>
+  </tr>
 </table>
 
 <h2 align="center">🎫 Certificate</h2>
