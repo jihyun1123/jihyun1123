@@ -158,7 +158,7 @@
     <td>프론트엔드 & 디자인 </td>
   </tr>
     <tr>
-    <td>MeowBTI>>tdd
+    <td>MeowBTI😻
     <td>20266.01.06 ~ 2026.01.20</td>
     <td>cat meme을 이용한 MBTI 사이트</td>
     <td>1인 토이 프로젝트</td>
