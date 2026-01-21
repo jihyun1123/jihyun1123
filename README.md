@@ -74,11 +74,17 @@
       <td>코드잇 React로 배우는 실전 프론트엔드 개발 로드맵 + UI 디자인 로드맵</td>
       <td>수료증 18개</td>
     </tr>
-      <tr>
+    <tr>
       <td>kt cloud X goorm DeepDive 프론트엔드 부트캠프 9회차</td>
       <td>2025.12.29 ~ 2026.07.16</td>
       <td>kt cloud X goorm에서 주최하는 7개월 프론트엔드 부트캠프</td>
       <td>프론트엔드</td>
+    </tr>
+      <tr>
+      <td>goorm 서포터즈 3기</td>
+      <td>2026.01 ~ 2026.07</td>
+      <td>goorm에서 진행하는 서포터즈</td>
+      <td>서포터즈</td>
     </tr>
     </tr>
   
